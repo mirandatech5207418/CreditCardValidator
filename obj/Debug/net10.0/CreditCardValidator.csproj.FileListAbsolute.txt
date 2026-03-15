@@ -1,0 +1,14 @@
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.exe
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.deps.json
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.runtimeconfig.json
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.dll
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\bin\Debug\net10.0\CreditCardValidator.pdb
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.AssemblyInfoInputs.cache
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.AssemblyInfo.cs
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.csproj.CoreCompileInputs.cache
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.dll
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\refint\CreditCardValidator.dll
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.pdb
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\CreditCardValidator.genruntimeconfig.cache
+C:\Users\Miranda\Documents\tecnologia2026\TIVIT\CreditCardValidator\obj\Debug\net10.0\ref\CreditCardValidator.dll
